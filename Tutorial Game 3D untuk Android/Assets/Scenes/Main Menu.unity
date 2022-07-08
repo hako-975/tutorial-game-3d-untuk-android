@@ -700,7 +700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.14231044, g: 0.7735849, b: 0.6042362, a: 1}
+  m_Color: {r: 1, g: 0.95985556, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3731,7 +3731,7 @@ MonoBehaviour:
   fitType: 4
   rows: 5
   columns: 1
-  cellSize: {x: 1111.5747, y: 86}
+  cellSize: {x: 1200.5691, y: 86}
   spacing: {x: 0, y: 20}
   fitX: 1
   fitY: 1
