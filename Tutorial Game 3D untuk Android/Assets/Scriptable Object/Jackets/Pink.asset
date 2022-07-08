@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336f9f36709d7964f932be0870268975, type: 3}
+  m_Name: Pink
+  m_EditorClassIdentifier: 
+  nameJacket: Pink
+  materialJacket: {fileID: 2100000, guid: 0b62dacfe74c8734d98b9b6cadf80720, type: 2}
+  imageJacket: {fileID: 21300000, guid: ddd9de4f99fc16044b8b1397a4f3d5fd, type: 3}

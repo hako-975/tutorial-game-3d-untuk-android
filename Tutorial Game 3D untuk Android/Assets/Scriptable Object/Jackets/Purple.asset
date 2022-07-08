@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336f9f36709d7964f932be0870268975, type: 3}
+  m_Name: Purple
+  m_EditorClassIdentifier: 
+  nameJacket: Purple
+  materialJacket: {fileID: 2100000, guid: 30a6e2418e662074e89ca88fc2b01082, type: 2}
+  imageJacket: {fileID: 21300000, guid: 874c44a0770536a46a0f7ff86e6494d1, type: 3}
